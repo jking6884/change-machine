@@ -1,0 +1,1 @@
+insert into machine (id, pennies, nickels, dimes, quarters) values (1, 100, 20, 10, 4);
